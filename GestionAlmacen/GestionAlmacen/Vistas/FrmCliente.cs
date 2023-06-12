@@ -20,8 +20,6 @@ namespace GestionAlmacen.Vistas
         }
         private void FrmCliente_Load(object sender, EventArgs e)
         {
-            // TODO: esta línea de código carga datos en la tabla 'databaseDataSet.Clientes' Puede moverla o quitarla según sea necesario.
-            this.clientesTableAdapter.Fill(this.databaseDataSet.Clientes);
             //cargo los clientes en la lista
             listaClientes = new Controladores.ControladorClientes().cargarClientes();
             //Muestro los clientes
@@ -119,14 +117,6 @@ namespace GestionAlmacen.Vistas
             lbl_ErrorCIF.Visible = false;
             lbl_ErrorNombreCliente.Visible = false;
             lbl_ErrorMovil.Visible = false;
-        }
-
-        private void clientesBindingNavigatorSaveItem_Click(object sender, EventArgs e)
-        {
-            this.Validate();
-            this.clientesBindingSource.EndEdit();
-            this.tableAdapterManager.UpdateAll(this.databaseDataSet);
-
         }
     }
 }
