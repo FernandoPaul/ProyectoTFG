@@ -1,0 +1,6 @@
+USUARIO ADMINISTRADOR
+Id:root
+Clave:root
+USuARIO BASICO
+Id:javier
+Clave:1234

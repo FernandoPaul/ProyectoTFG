@@ -1,0 +1,144 @@
+C:\Users\Paul\Desktop\DAM2\PROYECTO\VisualStudio\GestionAlmacen\GestionAlmacen\obj\Debug\GestionAlmacen.csproj.AssemblyReference.cache
+C:\Users\Paul\Desktop\DAM2\PROYECTO\VisualStudio\GestionAlmacen\GestionAlmacen\obj\Debug\GestionAlmacen.exe.config
+C:\Users\Paul\Desktop\DAM2\PROYECTO\VisualStudio\GestionAlmacen\GestionAlmacen\obj\Debug\GestionAlmacen.Vistas.FrmCliente.resources
+C:\Users\Paul\Desktop\DAM2\PROYECTO\VisualStudio\GestionAlmacen\GestionAlmacen\obj\Debug\GestionAlmacen.FrmInicioSesion.resources
+C:\Users\Paul\Desktop\DAM2\PROYECTO\VisualStudio\GestionAlmacen\GestionAlmacen\obj\Debug\GestionAlmacen.Properties.Resources.resources
+C:\Users\Paul\Desktop\DAM2\PROYECTO\VisualStudio\GestionAlmacen\GestionAlmacen\obj\Debug\GestionAlmacen.Vistas.FrmMenu.resources
+C:\Users\Paul\Desktop\DAM2\PROYECTO\VisualStudio\GestionAlmacen\GestionAlmacen\obj\Debug\GestionAlmacen.csproj.GenerateResource.cache
+C:\Users\Paul\Desktop\DAM2\PROYECTO\VisualStudio\GestionAlmacen\GestionAlmacen\obj\Debug\GestionAlmacen.csproj.CoreCompileInputs.cache
+C:\Users\Paul\Desktop\DAM2\PROYECTO\VisualStudio\GestionAlmacen\GestionAlmacen\bin\Debug\GestionAlmacen.exe.config
+C:\Users\Paul\Desktop\DAM2\PROYECTO\VisualStudio\GestionAlmacen\GestionAlmacen\bin\Debug\GestionAlmacen.exe
+C:\Users\Paul\Desktop\DAM2\PROYECTO\VisualStudio\GestionAlmacen\GestionAlmacen\bin\Debug\GestionAlmacen.pdb
+C:\Users\Paul\Desktop\DAM2\PROYECTO\VisualStudio\GestionAlmacen\GestionAlmacen\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Paul\Desktop\DAM2\PROYECTO\VisualStudio\GestionAlmacen\GestionAlmacen\bin\Debug\Google.Protobuf.dll
+C:\Users\Paul\Desktop\DAM2\PROYECTO\VisualStudio\GestionAlmacen\GestionAlmacen\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Paul\Desktop\DAM2\PROYECTO\VisualStudio\GestionAlmacen\GestionAlmacen\bin\Debug\MySql.Data.dll
+C:\Users\Paul\Desktop\DAM2\PROYECTO\VisualStudio\GestionAlmacen\GestionAlmacen\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Paul\Desktop\DAM2\PROYECTO\VisualStudio\GestionAlmacen\GestionAlmacen\bin\Debug\ZstdNet.dll
+C:\Users\Paul\Desktop\DAM2\PROYECTO\VisualStudio\GestionAlmacen\GestionAlmacen\bin\Debug\System.Memory.dll
+C:\Users\Paul\Desktop\DAM2\PROYECTO\VisualStudio\GestionAlmacen\GestionAlmacen\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Paul\Desktop\DAM2\PROYECTO\VisualStudio\GestionAlmacen\GestionAlmacen\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Paul\Desktop\DAM2\PROYECTO\VisualStudio\GestionAlmacen\GestionAlmacen\bin\Debug\System.Buffers.dll
+C:\Users\Paul\Desktop\DAM2\PROYECTO\VisualStudio\GestionAlmacen\GestionAlmacen\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Paul\Desktop\DAM2\PROYECTO\VisualStudio\GestionAlmacen\GestionAlmacen\bin\Debug\MySql.Data.xml
+C:\Users\Paul\Desktop\DAM2\PROYECTO\VisualStudio\GestionAlmacen\GestionAlmacen\obj\Debug\GestionAlmacen.csproj.CopyComplete
+C:\Users\Paul\Desktop\DAM2\PROYECTO\VisualStudio\GestionAlmacen\GestionAlmacen\obj\Debug\GestionAlmacen.exe
+C:\Users\Paul\Desktop\DAM2\PROYECTO\VisualStudio\GestionAlmacen\GestionAlmacen\obj\Debug\GestionAlmacen.pdb
+C:\Users\Paul\Desktop\DAM2\PROYECTO\VisualStudio\GestionAlmacen\GestionAlmacen\obj\Debug\GestionAlmacen.Vistas.Entradas.FrmNuevaEntrada.resources
+C:\Users\Paul\Desktop\DAM2\PROYECTO\VisualStudio\GestionAlmacen\GestionAlmacen\obj\Debug\GestionAlmacen.Vistas.Entradas.FrmListaEntradas.resources
+C:\Users\Paul\Desktop\DAM2\PROYECTO\VisualStudio\GestionAlmacen\GestionAlmacen\obj\Debug\GestionAlmacen.Vistas.Entradas.FrmMenuEntradas.resources
+C:\Users\Paul\Desktop\DAM2\PROYECTO\VisualStudio\GestionAlmacen\GestionAlmacen\obj\Debug\GestionAlmacen.Vistas.FrmInventario.resources
+C:\Users\Paul\Desktop\DAM2\PROYECTO\VisualStudio\GestionAlmacen\GestionAlmacen\obj\Debug\GestionAlmacen.Vistas.FrmNuevoUsuario.resources
+C:\Users\Paul\Desktop\DAM2\PROYECTO\VisualStudio\GestionAlmacen\GestionAlmacen\obj\Debug\GestionAlmacen.Vistas.FrmProveedores.resources
+C:\Users\Paul\Desktop\DAM2\PROYECTO\VisualStudio\GestionAlmacen\GestionAlmacen\obj\Debug\GestionAlmacen.Vistas.Productos.FrmAddProductos.resources
+C:\Users\Paul\Desktop\DAM2\PROYECTO\VisualStudio\GestionAlmacen\GestionAlmacen\obj\Debug\GestionAlmacen.Vistas.Productos.FrmCargarProductos.resources
+C:\Users\Paul\Desktop\DAM2\PROYECTO\VisualStudio\GestionAlmacen\GestionAlmacen\obj\Debug\GestionAlmacen.Vistas.Productos.FrmMenuProductos.resources
+C:\Users\Paul\Desktop\DAM2\PROYECTO\VisualStudio\GestionAlmacen\GestionAlmacen\obj\Debug\GestionAlmacen.Vistas.Salidas.FrmListaSalidas.resources
+C:\Users\Paul\Desktop\DAM2\PROYECTO\VisualStudio\GestionAlmacen\GestionAlmacen\obj\Debug\GestionAlmacen.Vistas.Salidas.FrmMenuSalidas.resources
+C:\Users\Paul\Desktop\DAM2\PROYECTO\VisualStudio\GestionAlmacen\GestionAlmacen\obj\Debug\GestionAlmacen.Vistas.Salidas.FrmNuevaSalida.resources
+C:\Users\Paul\Desktop\DAM2\PROYECTO\VisualStudio\GestionAlmacen\GestionAlmacen\obj\Debug\GestionAlmacen.Controles.Filtro.resources
+C:\Users\Paul\Desktop\DAM2\PROYECTO\VisualStudio\GestionAlmacen\GestionAlmacen\obj\Debug\GestionAlmacen.Vistas.Entradas.FrmBuscarProv.resources
+C:\Users\Paul\Desktop\DAM2\PROYECTO\VisualStudio\GestionAlmacen\GestionAlmacen\obj\Debug\GestionAlmacen.Vistas.FrmBuscarProd.resources
+C:\Users\Paul\Desktop\DAM2\PROYECTO\VisualStudio\GestionAlmacen\GestionAlmacen\obj\Debug\GestionAlmacen.Vistas.Entradas.FrmBuscarCliente.resources
+C:\Users\Paul\Desktop\PROYECTO\GestionAlmacen\GestionAlmacen\obj\Debug\GestionAlmacen.csproj.AssemblyReference.cache
+C:\Users\Paul\Desktop\PROYECTO\GestionAlmacen\GestionAlmacen\obj\Debug\GestionAlmacen.exe.config
+C:\Users\Paul\Desktop\PROYECTO\GestionAlmacen\GestionAlmacen\obj\Debug\GestionAlmacen.Controles.Filtro.resources
+C:\Users\Paul\Desktop\PROYECTO\GestionAlmacen\GestionAlmacen\obj\Debug\GestionAlmacen.Vistas.FrmBuscarProd.resources
+C:\Users\Paul\Desktop\PROYECTO\GestionAlmacen\GestionAlmacen\obj\Debug\GestionAlmacen.Vistas.Entradas.FrmBuscarCliente.resources
+C:\Users\Paul\Desktop\PROYECTO\GestionAlmacen\GestionAlmacen\obj\Debug\GestionAlmacen.Vistas.Entradas.FrmBuscarProv.resources
+C:\Users\Paul\Desktop\PROYECTO\GestionAlmacen\GestionAlmacen\obj\Debug\GestionAlmacen.Vistas.Entradas.FrmNuevaEntrada.resources
+C:\Users\Paul\Desktop\PROYECTO\GestionAlmacen\GestionAlmacen\obj\Debug\GestionAlmacen.Vistas.Entradas.FrmListaEntradas.resources
+C:\Users\Paul\Desktop\PROYECTO\GestionAlmacen\GestionAlmacen\obj\Debug\GestionAlmacen.Vistas.Entradas.FrmMenuEntradas.resources
+C:\Users\Paul\Desktop\PROYECTO\GestionAlmacen\GestionAlmacen\obj\Debug\GestionAlmacen.Vistas.FrmCliente.resources
+C:\Users\Paul\Desktop\PROYECTO\GestionAlmacen\GestionAlmacen\obj\Debug\GestionAlmacen.FrmInicioSesion.resources
+C:\Users\Paul\Desktop\PROYECTO\GestionAlmacen\GestionAlmacen\obj\Debug\GestionAlmacen.Properties.Resources.resources
+C:\Users\Paul\Desktop\PROYECTO\GestionAlmacen\GestionAlmacen\obj\Debug\GestionAlmacen.Vistas.FrmInventario.resources
+C:\Users\Paul\Desktop\PROYECTO\GestionAlmacen\GestionAlmacen\obj\Debug\GestionAlmacen.Vistas.FrmMenu.resources
+C:\Users\Paul\Desktop\PROYECTO\GestionAlmacen\GestionAlmacen\obj\Debug\GestionAlmacen.Vistas.FrmNuevoUsuario.resources
+C:\Users\Paul\Desktop\PROYECTO\GestionAlmacen\GestionAlmacen\obj\Debug\GestionAlmacen.Vistas.FrmProveedores.resources
+C:\Users\Paul\Desktop\PROYECTO\GestionAlmacen\GestionAlmacen\obj\Debug\GestionAlmacen.Vistas.Productos.FrmAddProductos.resources
+C:\Users\Paul\Desktop\PROYECTO\GestionAlmacen\GestionAlmacen\obj\Debug\GestionAlmacen.Vistas.Productos.FrmCargarProductos.resources
+C:\Users\Paul\Desktop\PROYECTO\GestionAlmacen\GestionAlmacen\obj\Debug\GestionAlmacen.Vistas.Productos.FrmMenuProductos.resources
+C:\Users\Paul\Desktop\PROYECTO\GestionAlmacen\GestionAlmacen\obj\Debug\GestionAlmacen.Vistas.Salidas.FrmListaSalidas.resources
+C:\Users\Paul\Desktop\PROYECTO\GestionAlmacen\GestionAlmacen\obj\Debug\GestionAlmacen.Vistas.Salidas.FrmMenuSalidas.resources
+C:\Users\Paul\Desktop\PROYECTO\GestionAlmacen\GestionAlmacen\obj\Debug\GestionAlmacen.Vistas.Salidas.FrmNuevaSalida.resources
+C:\Users\Paul\Desktop\PROYECTO\GestionAlmacen\GestionAlmacen\obj\Debug\GestionAlmacen.csproj.GenerateResource.cache
+C:\Users\Paul\Desktop\PROYECTO\GestionAlmacen\GestionAlmacen\obj\Debug\GestionAlmacen.csproj.CoreCompileInputs.cache
+C:\Users\Paul\Desktop\PROYECTO\GestionAlmacen\GestionAlmacen\obj\Debug\GestionAlmacen.csproj.CopyComplete
+C:\Users\Paul\Desktop\PROYECTO\GestionAlmacen\GestionAlmacen\obj\Debug\GestionAlmacen.exe
+C:\Users\Paul\Desktop\PROYECTO\GestionAlmacen\GestionAlmacen\obj\Debug\GestionAlmacen.pdb
+C:\Users\Paul\Desktop\PROYECTO\GestionAlmacen\GestionAlmacen\GestionAlmacen.exe.config
+C:\Users\Paul\Desktop\PROYECTO\GestionAlmacen\GestionAlmacen\GestionAlmacen.xml
+C:\Users\Paul\Desktop\PROYECTO\GestionAlmacen\GestionAlmacen\GestionAlmacen.exe
+C:\Users\Paul\Desktop\PROYECTO\GestionAlmacen\GestionAlmacen\GestionAlmacen.pdb
+C:\Users\Paul\Desktop\PROYECTO\GestionAlmacen\GestionAlmacen\BouncyCastle.Crypto.dll
+C:\Users\Paul\Desktop\PROYECTO\GestionAlmacen\GestionAlmacen\DocumentFormat.OpenXml.dll
+C:\Users\Paul\Desktop\PROYECTO\GestionAlmacen\GestionAlmacen\Google.Protobuf.dll
+C:\Users\Paul\Desktop\PROYECTO\GestionAlmacen\GestionAlmacen\K4os.Compression.LZ4.Streams.dll
+C:\Users\Paul\Desktop\PROYECTO\GestionAlmacen\GestionAlmacen\MySql.Data.dll
+C:\Users\Paul\Desktop\PROYECTO\GestionAlmacen\GestionAlmacen\SpreadsheetLight.dll
+C:\Users\Paul\Desktop\PROYECTO\GestionAlmacen\GestionAlmacen\System.Drawing.Common.dll
+C:\Users\Paul\Desktop\PROYECTO\GestionAlmacen\GestionAlmacen\System.IO.Packaging.dll
+C:\Users\Paul\Desktop\PROYECTO\GestionAlmacen\GestionAlmacen\Ubiety.Dns.Core.dll
+C:\Users\Paul\Desktop\PROYECTO\GestionAlmacen\GestionAlmacen\Zen.Barcode.Core.dll
+C:\Users\Paul\Desktop\PROYECTO\GestionAlmacen\GestionAlmacen\ZstdNet.dll
+C:\Users\Paul\Desktop\PROYECTO\GestionAlmacen\GestionAlmacen\System.Memory.dll
+C:\Users\Paul\Desktop\PROYECTO\GestionAlmacen\GestionAlmacen\K4os.Compression.LZ4.dll
+C:\Users\Paul\Desktop\PROYECTO\GestionAlmacen\GestionAlmacen\K4os.Hash.xxHash.dll
+C:\Users\Paul\Desktop\PROYECTO\GestionAlmacen\GestionAlmacen\System.Buffers.dll
+C:\Users\Paul\Desktop\PROYECTO\GestionAlmacen\GestionAlmacen\System.Numerics.Vectors.dll
+C:\Users\Paul\Desktop\PROYECTO\GestionAlmacen\GestionAlmacen\DocumentFormat.OpenXml.xml
+C:\Users\Paul\Desktop\PROYECTO\GestionAlmacen\GestionAlmacen\MySql.Data.xml
+C:\Users\Paul\Desktop\PROYECTO\GestionAlmacen\GestionAlmacen\SpreadsheetLight.xml
+C:\Users\Paul\Desktop\PROYECTO\GestionAlmacen\GestionAlmacen\System.IO.Packaging.xml
+C:\Users\Paul\Desktop\TFG PaulQuillupangui\GestionAlmacen\GestionAlmacen\obj\Debug\GestionAlmacen.csproj.AssemblyReference.cache
+C:\Users\Paul\Desktop\TFG PaulQuillupangui\GestionAlmacen\GestionAlmacen\obj\Debug\GestionAlmacen.exe.config
+C:\Users\Paul\Desktop\TFG PaulQuillupangui\GestionAlmacen\GestionAlmacen\obj\Debug\GestionAlmacen.Controles.Filtro.resources
+C:\Users\Paul\Desktop\TFG PaulQuillupangui\GestionAlmacen\GestionAlmacen\obj\Debug\GestionAlmacen.Vistas.FrmBuscarProd.resources
+C:\Users\Paul\Desktop\TFG PaulQuillupangui\GestionAlmacen\GestionAlmacen\obj\Debug\GestionAlmacen.Vistas.Entradas.FrmBuscarCliente.resources
+C:\Users\Paul\Desktop\TFG PaulQuillupangui\GestionAlmacen\GestionAlmacen\obj\Debug\GestionAlmacen.Vistas.Entradas.FrmBuscarProv.resources
+C:\Users\Paul\Desktop\TFG PaulQuillupangui\GestionAlmacen\GestionAlmacen\obj\Debug\GestionAlmacen.Vistas.Entradas.FrmNuevaEntrada.resources
+C:\Users\Paul\Desktop\TFG PaulQuillupangui\GestionAlmacen\GestionAlmacen\obj\Debug\GestionAlmacen.Vistas.Entradas.FrmListaEntradas.resources
+C:\Users\Paul\Desktop\TFG PaulQuillupangui\GestionAlmacen\GestionAlmacen\obj\Debug\GestionAlmacen.Vistas.Entradas.FrmMenuEntradas.resources
+C:\Users\Paul\Desktop\TFG PaulQuillupangui\GestionAlmacen\GestionAlmacen\obj\Debug\GestionAlmacen.Vistas.FrmCliente.resources
+C:\Users\Paul\Desktop\TFG PaulQuillupangui\GestionAlmacen\GestionAlmacen\obj\Debug\GestionAlmacen.FrmInicioSesion.resources
+C:\Users\Paul\Desktop\TFG PaulQuillupangui\GestionAlmacen\GestionAlmacen\obj\Debug\GestionAlmacen.Properties.Resources.resources
+C:\Users\Paul\Desktop\TFG PaulQuillupangui\GestionAlmacen\GestionAlmacen\obj\Debug\GestionAlmacen.Vistas.FrmInventario.resources
+C:\Users\Paul\Desktop\TFG PaulQuillupangui\GestionAlmacen\GestionAlmacen\obj\Debug\GestionAlmacen.Vistas.FrmMenu.resources
+C:\Users\Paul\Desktop\TFG PaulQuillupangui\GestionAlmacen\GestionAlmacen\obj\Debug\GestionAlmacen.Vistas.FrmNuevoUsuario.resources
+C:\Users\Paul\Desktop\TFG PaulQuillupangui\GestionAlmacen\GestionAlmacen\obj\Debug\GestionAlmacen.Vistas.FrmProveedores.resources
+C:\Users\Paul\Desktop\TFG PaulQuillupangui\GestionAlmacen\GestionAlmacen\obj\Debug\GestionAlmacen.Vistas.Productos.FrmAddProductos.resources
+C:\Users\Paul\Desktop\TFG PaulQuillupangui\GestionAlmacen\GestionAlmacen\obj\Debug\GestionAlmacen.Vistas.Productos.FrmCargarProductos.resources
+C:\Users\Paul\Desktop\TFG PaulQuillupangui\GestionAlmacen\GestionAlmacen\obj\Debug\GestionAlmacen.Vistas.Productos.FrmMenuProductos.resources
+C:\Users\Paul\Desktop\TFG PaulQuillupangui\GestionAlmacen\GestionAlmacen\obj\Debug\GestionAlmacen.Vistas.Salidas.FrmListaSalidas.resources
+C:\Users\Paul\Desktop\TFG PaulQuillupangui\GestionAlmacen\GestionAlmacen\obj\Debug\GestionAlmacen.Vistas.Salidas.FrmMenuSalidas.resources
+C:\Users\Paul\Desktop\TFG PaulQuillupangui\GestionAlmacen\GestionAlmacen\obj\Debug\GestionAlmacen.Vistas.Salidas.FrmNuevaSalida.resources
+C:\Users\Paul\Desktop\TFG PaulQuillupangui\GestionAlmacen\GestionAlmacen\obj\Debug\GestionAlmacen.csproj.GenerateResource.cache
+C:\Users\Paul\Desktop\TFG PaulQuillupangui\GestionAlmacen\GestionAlmacen\obj\Debug\GestionAlmacen.csproj.CoreCompileInputs.cache
+C:\Users\Paul\Desktop\TFG PaulQuillupangui\GestionAlmacen\GestionAlmacen\obj\Debug\GestionAlmacen.csproj.CopyComplete
+C:\Users\Paul\Desktop\TFG PaulQuillupangui\GestionAlmacen\GestionAlmacen\GestionAlmacen.exe.config
+C:\Users\Paul\Desktop\TFG PaulQuillupangui\GestionAlmacen\GestionAlmacen\obj\Debug\GestionAlmacen.exe
+C:\Users\Paul\Desktop\TFG PaulQuillupangui\GestionAlmacen\GestionAlmacen\GestionAlmacen.xml
+C:\Users\Paul\Desktop\TFG PaulQuillupangui\GestionAlmacen\GestionAlmacen\obj\Debug\GestionAlmacen.pdb
+C:\Users\Paul\Desktop\TFG PaulQuillupangui\GestionAlmacen\GestionAlmacen\GestionAlmacen.exe
+C:\Users\Paul\Desktop\TFG PaulQuillupangui\GestionAlmacen\GestionAlmacen\GestionAlmacen.pdb
+C:\Users\Paul\Desktop\TFG PaulQuillupangui\GestionAlmacen\GestionAlmacen\BouncyCastle.Crypto.dll
+C:\Users\Paul\Desktop\TFG PaulQuillupangui\GestionAlmacen\GestionAlmacen\DocumentFormat.OpenXml.dll
+C:\Users\Paul\Desktop\TFG PaulQuillupangui\GestionAlmacen\GestionAlmacen\Google.Protobuf.dll
+C:\Users\Paul\Desktop\TFG PaulQuillupangui\GestionAlmacen\GestionAlmacen\K4os.Compression.LZ4.Streams.dll
+C:\Users\Paul\Desktop\TFG PaulQuillupangui\GestionAlmacen\GestionAlmacen\MySql.Data.dll
+C:\Users\Paul\Desktop\TFG PaulQuillupangui\GestionAlmacen\GestionAlmacen\SpreadsheetLight.dll
+C:\Users\Paul\Desktop\TFG PaulQuillupangui\GestionAlmacen\GestionAlmacen\System.Drawing.Common.dll
+C:\Users\Paul\Desktop\TFG PaulQuillupangui\GestionAlmacen\GestionAlmacen\System.IO.Packaging.dll
+C:\Users\Paul\Desktop\TFG PaulQuillupangui\GestionAlmacen\GestionAlmacen\Ubiety.Dns.Core.dll
+C:\Users\Paul\Desktop\TFG PaulQuillupangui\GestionAlmacen\GestionAlmacen\Zen.Barcode.Core.dll
+C:\Users\Paul\Desktop\TFG PaulQuillupangui\GestionAlmacen\GestionAlmacen\ZstdNet.dll
+C:\Users\Paul\Desktop\TFG PaulQuillupangui\GestionAlmacen\GestionAlmacen\System.Memory.dll
+C:\Users\Paul\Desktop\TFG PaulQuillupangui\GestionAlmacen\GestionAlmacen\K4os.Compression.LZ4.dll
+C:\Users\Paul\Desktop\TFG PaulQuillupangui\GestionAlmacen\GestionAlmacen\K4os.Hash.xxHash.dll
+C:\Users\Paul\Desktop\TFG PaulQuillupangui\GestionAlmacen\GestionAlmacen\System.Buffers.dll
+C:\Users\Paul\Desktop\TFG PaulQuillupangui\GestionAlmacen\GestionAlmacen\System.Numerics.Vectors.dll
+C:\Users\Paul\Desktop\TFG PaulQuillupangui\GestionAlmacen\GestionAlmacen\DocumentFormat.OpenXml.xml
+C:\Users\Paul\Desktop\TFG PaulQuillupangui\GestionAlmacen\GestionAlmacen\MySql.Data.xml
+C:\Users\Paul\Desktop\TFG PaulQuillupangui\GestionAlmacen\GestionAlmacen\SpreadsheetLight.xml
+C:\Users\Paul\Desktop\TFG PaulQuillupangui\GestionAlmacen\GestionAlmacen\System.IO.Packaging.xml
